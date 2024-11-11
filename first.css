@@ -1,0 +1,151 @@
+body{
+    background-color: rgb(43, 49, 73);
+}
+.head{
+    border: none;
+    display: flex;
+    justify-content: space-around;
+}
+button{
+    color: white;
+    background-color: rgb(43, 49, 73);
+    border: none;
+    font-size: 20px;
+}
+button:hover{
+    color: grey;
+}
+.img{
+    height: 400px;
+    margin-left: 500px;
+    margin-top: 50px;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+.no{
+    width: 400px;
+    margin-top: 50px;
+    color: white;
+    border: 2px solid black;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    margin-left: 80px;
+    bottom: 300px;
+    cursor: pointer;
+    /* background-image: url(./img.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; */
+}
+.post{
+    color: white;
+    display: flex;
+    margin: 20px;
+    overflow-x: scroll;
+    cursor: pointer;
+}
+.img1{
+    padding: 20px;
+    border-radius: 10px;
+    display: block;
+}
+.h3{
+    color: whitesmoke;
+}
+span{
+    display: block;
+    margin-left: 100px;
+}
+.one{
+    display: block;
+}
+.One-p{
+    color: white;
+    margin-left: 100px;
+}
+.latest{
+    display: flex;
+    /* margin-top: 1000px; */
+    color: whitesmoke;
+    cursor: pointer;
+}
+.pok{
+    color: whitesmoke;
+    margin-left: 4px;
+}
+.pokemon{
+    margin: 20px;
+}
+.latest_post{
+    display: flex;
+    /* margin: 10px; */
+    padding: 10px;
+    align-items: baseline;
+    cursor: pointer;
+}
+.bay1{
+    height: 320px;
+    padding-top: 20px;
+}
+.world{
+    margin: 10px;
+}
+.world1{
+    height: 320px;
+    padding-top: 20px;
+}
+.creative{
+    margin: 10px;
+}
+.latest_post1{
+    display: flex;
+    /* margin: 10px; */
+    padding: 10px;
+    align-items: baseline;
+    margin-left: 14px;
+    margin: 10px;
+    cursor: pointer;
+}
+.himi{
+    margin: 10px;
+}
+.story{
+    margin: 10px;
+}
+.how{
+    margin: 10px;
+}
+h2{
+    color: whitesmoke;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.new_on{
+    display: flex;
+    /* margin: 10px; */
+    padding: 10px;
+    align-items: baseline;
+    margin-left: 14px;
+    margin: 10px;
+    cursor: pointer;
+}
+.look{
+    margin: 10px;
+}
+.parry{
+    margin: 10px;
+}
+.high{
+    margin: 10px;
+}
+.jelly{
+    margin: 10px;
+}
+.top{
+    color: whitesmoke;
+    position: relative;
+    bottom: 360px;
+    background-color: red;
+    width: 30px;
+}
